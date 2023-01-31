@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y2K", "Y2K.csproj", "{3B7F1164-2279-413D-B351-34DBBF597AF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrzDateValidator", "..\MrzDateValidator\MrzDateValidator.csproj", "{492E7ACA-858C-4A02-B16F-666374214054}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3B7F1164-2279-413D-B351-34DBBF597AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B7F1164-2279-413D-B351-34DBBF597AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B7F1164-2279-413D-B351-34DBBF597AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492E7ACA-858C-4A02-B16F-666374214054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492E7ACA-858C-4A02-B16F-666374214054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492E7ACA-858C-4A02-B16F-666374214054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492E7ACA-858C-4A02-B16F-666374214054}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
