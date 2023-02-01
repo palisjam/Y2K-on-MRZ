@@ -14,7 +14,7 @@ namespace Y2K
         
         static void Main(string[] args)
         {
-            ValidateDate _validateDate = new ValidateDate(10);
+            ValidateDate _validateDate = new ValidateDate();
 
             string date;
             date = Console.ReadLine();

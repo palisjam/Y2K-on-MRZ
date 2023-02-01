@@ -13,6 +13,12 @@ namespace MrzDateValidator
     {
 
         private int MaxPassportValidity;
+
+        public ValidateDate()
+        {
+            MaxPassportValidity = 10;
+        }
+
         public ValidateDate(int maxPassportValidity) {
             MaxPassportValidity = maxPassportValidity; 
         }

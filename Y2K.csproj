@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MrzDateValidator\MrzDateValidator.csproj">
+    <ProjectReference Include="MrzDateValidator\MrzDateValidator.csproj">
       <Project>{492e7aca-858c-4a02-b16f-666374214054}</Project>
       <Name>MrzDateValidator</Name>
     </ProjectReference>
